@@ -17,7 +17,7 @@ Talking points:
 
 3. Bitcoin bros band together
 
-  - Proof of work takes up more space and has needs for my computing power as time goes on
+  - Proof of work takes up more space and has needs for more computing power as time goes on
   - Add GPUs to CPUs
   - Mining pools spread out the workload but it is not enough
 
